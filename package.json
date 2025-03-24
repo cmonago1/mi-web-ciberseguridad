@@ -1,0 +1,25 @@
+{
+  "name": "mi-web-ciberseguridad",
+  "version": "1.0.0",
+  "description": "\"# mi-web-ciberseguridad\" \r \"# mi-web-ciberseguridad\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmonago1/mi-web-ciberseguridad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmonago1/mi-web-ciberseguridad/issues"
+  },
+  "homepage": "https://github.com/cmonago1/mi-web-ciberseguridad#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17"
+  }
+}
